@@ -1,0 +1,12 @@
+<?php
+
+class $NAME$ implements BaseRepositoryInterface {
+
+    public function selectAll(){
+        //implemts metod
+    }
+
+    public function find($id){
+        //implemets metod
+    }
+}
