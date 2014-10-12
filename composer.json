@@ -1,5 +1,5 @@
 {
-    "name": "way/generators",
+    "name": "waym/generators",
     "description": "Rapidly generate resources, migrations, Entity, and much more.",
     "license": "MIT",
     "authors": [
